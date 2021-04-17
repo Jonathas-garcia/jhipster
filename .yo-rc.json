@@ -40,6 +40,8 @@
     "nativeLanguage": "pt-br",
     "packageFolder": "com/mycompany/myapp",
     "clientPackageManager": "npm",
-    "languages": ["pt-br"]
+    "languages": ["pt-br"],
+    "entities": ["Region", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
+    "lastLiquibaseTimestamp": 1618678233000
   }
 }
